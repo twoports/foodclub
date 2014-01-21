@@ -64,6 +64,10 @@
         <servlet-name>ChooseClubAddressServlet</servlet-name>
         <servlet-class>ModelView.ChooseClubAddressServlet</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>GavinWeek3Q5OrderFormServlet</servlet-name>
+        <servlet-class>ModelView.GavinWeek3Q5OrderFormServlet</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>ChooseClubFund</servlet-name>
         <url-pattern>/ChooseClubFund</url-pattern>
@@ -127,6 +131,10 @@
     <servlet-mapping>
         <servlet-name>ChooseClubAddressServlet</servlet-name>
         <url-pattern>/ChooseClubAddressServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>GavinWeek3Q5OrderFormServlet</servlet-name>
+        <url-pattern>/GavinWeek3Q5OrderFormServlet</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
