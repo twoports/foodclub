@@ -23,9 +23,11 @@
                    <div class ="container">
                        <ul class="nav">
                            <li class="active"><a href="*">Home</a></li>
-                           <li><a href="*">Projects</a></li>
-                           <li><a href="*">Services</a></li>
-                           <li><a href="*">About</a></li>
+                           <li><a href="*">Members</a></li>
+                           <li><a href="*">Clubs</a></li>
+                           <li><a href="*">Orders</a></li>
+                           <li><a href="*">Suppliers</a></li>
+                           <li><a href="*">Donors</a></li>
                            <li><a href="*">Contact Us</a></li>
                       </ul>
                </div>
