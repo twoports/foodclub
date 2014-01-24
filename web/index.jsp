@@ -23,8 +23,8 @@
                    <div class ="container">
                        <ul class="nav">
                            <li class="active"><a href="*">Home</a></li>
-                           <li><a href="*">Projects</a></li>
-                           <li><a href="*">Services</a></li>
+                           <li><a href="*">Test1</a></li>
+                           <li><a href="*">Test2</a></li>
                            <li><a href="*">About</a></li>
                            <li><a href="*">Contact Us</a></li>
                       </ul>
