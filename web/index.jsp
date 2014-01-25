@@ -28,6 +28,11 @@
                            <li><a href="*">About</a></li>
                            <li><a href="*">Contact Us</a></li>
                       </ul>
+                      <ul id="user-menu" class="nav pull-right">
+			 <li class="dropdown ">
+			 <a href="/members/sign_in" data-method="get">Sign In</a>
+			 </li>
+		    </ul>			
                </div>
             </div>
          </div>
