@@ -32,7 +32,7 @@
 			 <li class="dropdown ">
 			 <a href="/members/sign_in" data-method="get">Sign In</a>
 			 </li>
-		    </ul>			
+		    </ul>
                </div>
             </div>
          </div>
@@ -44,6 +44,42 @@
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </p>
+                
+                 <form class="form-horizontal">
+<fieldset>
+
+<!-- Form Name -->
+<legend>Form Name</legend>
+
+<!-- Text input-->
+<div class="control-group">
+  <label class="control-label" for="textinput">Text Input</label>
+  <div class="controls">
+    <input id="textinput" name="textinput" placeholder="placeholder" class="input-xlarge" type="text">
+    <p class="help-block">help</p>
+  </div>
+</div>
+
+<!-- Password input-->
+<div class="control-group">
+  <label class="control-label" for="passwordinput">Password Input</label>
+  <div class="controls">
+    <input id="passwordinput" name="passwordinput" placeholder="placeholder" class="input-xlarge" type="password">
+    <p class="help-block">help</p>
+  </div>
+</div>
+
+<!-- Search input-->
+<div class="control-group">
+  <label class="control-label" for="searchinput">Search Input</label>
+  <div class="controls">
+    <input id="searchinput" name="searchinput" placeholder="placeholder" class="input-xlarge search-query" type="text">
+    <p class="help-block">help</p>
+  </div>
+</div>
+
+</fieldset>
+</form>
 
                 <a href="*" class="btn btn-large btn-success">Food Bank Club</a>
                     
