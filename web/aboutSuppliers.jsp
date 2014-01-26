@@ -9,7 +9,7 @@
 
 <html>
     <head>
-        <title>FoodBankClub.org</title>
+        <title>FoodBankClub Supply Chain</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width">
         <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
@@ -78,6 +78,8 @@
       </div>
     </div>
   </div>
+       
+         
         
 <div class="hero-unit">     
   <div class="row">
