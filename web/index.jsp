@@ -14,6 +14,14 @@
         <meta name="viewport" content="width=device-width">
         <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
     </head>
+    
+    <% 
+        if(request.getParameter("signIn")!=(null)){
+        if(request.getParameter("signIn").equals("signIn"))
+    response.sendRedirect("loginJoinup.jsp");
+        }
+    %>
+    
  <body>
         <script src="js/jquery/jquery.js"></script>
         <script src="js/bootstrap.js"></script>
@@ -28,7 +36,7 @@
                 </div>
 
                 <div class="span4 offset2" style="margin-top:15px;">
-                    <button class="btn pull-right" type="button" href="loginJoinup.jsp">Sign In</button>
+                    <button class="btn pull-right" type="submit" name="signIn" value="signIn">Sign In</button>
                 </div>
             </div>
         </div>
