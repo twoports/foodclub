@@ -9,19 +9,11 @@
 
 <html>
     <head>
-        <title>FoodBankClub.org</title>
+        <title>FoodBankClub.org Donate-Join-Order</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width">
         <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
     </head>
-    
-    <% 
-        if(request.getParameter("signIn")!=(null)){
-        if(request.getParameter("signIn").equals("signIn"))
-    response.sendRedirect("loginJoinup.jsp");
-        }
-    %>
-    
  <body>
         <script src="js/jquery/jquery.js"></script>
         <script src="js/bootstrap.js"></script>
@@ -36,7 +28,9 @@
                 </div>
 
                 <div class="span4 offset2" style="margin-top:15px;">
-                    <button class="btn pull-right" type="submit" name="signIn" value="signIn">Sign In</button>
+                <div id="browse_app">  
+                    <a class="btn pull-right"href="loginJoinup.jsp">Sign In</a>
+                </div>
                 </div>
             </div>
         </div>
@@ -94,8 +88,11 @@
     <div class="col-lg-4">
       <div class="col-md-3">
        
-        <a href="*" class="btn btn-medium btn-warning">Go Back</a>  
-        <a href="*" class="btn btn-medium btn-success">Join us</a>         
+        
+        <a href="loginJoinup.jsp" class="btn btn-medium btn-success">Join us</a> 
+        
+        
+        
       </div>
     </div>
   </div> 

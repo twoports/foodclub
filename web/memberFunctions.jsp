@@ -27,9 +27,11 @@
                     <h1 class="muted">Food Bank Club</h1>
                 </div>
 
-                <div class="span4 offset2" style="margin-top:15px;">
-                    <button class="btn pull-right" type="button" href="loginJoinup.jsp">Sign In</button>
+               <div class="span4 offset2" style="margin-top:15px;">
+                <div id="browse_app">  
+                    <a class="btn pull-right"href="loginJoinup.jsp">Sign In</a>
                 </div>
+               </div>
             </div>
         </div>
 
@@ -86,8 +88,9 @@
     <div class="col-lg-4">
       <div class="col-md-3">
        
-        <a href="*" class="btn btn-medium btn-warning">Go Back</a>  
-        <a href="*" class="btn btn-medium btn-success">Join us</a>         
+        <a href="index.jsp" class="btn btn-medium btn-warning">Go Back</a>  
+        <a href="loginJoinup.jsp" class="btn btn-medium btn-success">Join us</a>      
+        <a href="aboutMembers.jsp" class="btn btn-medium btn-success">Help</a>
       </div>
     </div>
   </div> 
