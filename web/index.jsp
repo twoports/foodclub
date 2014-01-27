@@ -16,7 +16,7 @@
     </head>
  <body>
         <script src="js/jquery/jquery.js"></script>
-        <script src="js/bootstrap.js"></script>
+        <script src="js/bootstrap.js"></script>      
         <div class="container">
   <div class="row">
     <div class="span12">
