@@ -13,5 +13,6 @@ package Model;
  * @author MacBootCamp
  */
 public class Club {
-    
+   
+  
 }
