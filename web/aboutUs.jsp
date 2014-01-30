@@ -9,7 +9,7 @@
 
 <html>
     <head>
-        <title>FoodBankClub aboutUs</title>
+        <title>FoodBankClub Contact Us</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width">
         <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
@@ -32,7 +32,7 @@
                     <a class="btn pull-right"href="loginJoinup.jsp">Sign In</a>
                 </div>
                </div>
-         
+            </div>
         </div>
 
         <div class="navbar">

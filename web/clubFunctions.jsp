@@ -89,7 +89,8 @@
       <div class="col-md-3">
        
         <a href="index.jsp" class="btn btn-medium btn-warning">Go Back</a>  
-        <a href="loginJoinup.jsp" class="btn btn-medium btn-success">Join us</a>         
+        <a href="loginJoinup.jsp" class="btn btn-medium btn-success">Join us</a>  
+        <a href="aboutClubs.jsp" class="btn btn-medium btn-success">Help</a>
       </div>
     </div>
   </div> 

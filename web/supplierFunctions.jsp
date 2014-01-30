@@ -90,7 +90,7 @@
        
         <a href="index.jsp" class="btn btn-medium btn-warning">Go Back</a>  
         <a href="loginJoinup.jsp" class="btn btn-medium btn-success">Join us</a> 
-        
+        <a href="aboutSuppliers.jsp" class="btn btn-medium btn-success">Help</a>
         
         
       </div>

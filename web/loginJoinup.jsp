@@ -139,6 +139,10 @@
                         <label>Address</label>
                         <textarea value="Smith" rows="3" class="input-xlarge">
                         </textarea>
+                        <label>Password</label>
+                        <input type="text" value="" class="input-xlarge">
+                        <label>Verify Password</label>
+                        <input type="text" value="" class="input-xlarge">              
                         <div>
                           <button class="btn btn-primary">Create Account</button>
                         </div>
@@ -155,9 +159,9 @@
                  
                
                 
-                <a href="*" class="btn btn-medium btn-warning">Go Back</a>
+                <a href="index.jsp" class="btn btn-medium btn-warning">Go Back</a>
                 
-                <a href="*" class="btn btn-medium btn-success">Join us</a>
+                
                     
            </div>   
    </body>

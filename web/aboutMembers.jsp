@@ -88,8 +88,8 @@
     <div class="col-lg-4">
       <div class="col-md-3">
        
-        <a href="*" class="btn btn-medium btn-warning">Go Back</a>  
-        <a href="*" class="btn btn-medium btn-success">Join us</a>         
+        <a href="index.jsp" class="btn btn-medium btn-warning">Go Back</a>  
+        <a href="loginJoinup.jsp" class="btn btn-medium btn-success">Join us</a>         
       </div>
     </div>
   </div> 

@@ -9,39 +9,107 @@
 
 <html>
     <head>
-        <title>TODO supply title....</title>
+        <title>FoodBankClub.org Donate-Join-Order</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width">
         <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
     </head>
  <body>
         <script src="js/jquery/jquery.js"></script>
-        <script src="js/bootstrap.js"></script>
-        <div class ="container">
-           <div class ="navbar">
-               <div class ="navbar-inner">
-                   <div class ="container">
-                       <ul class="nav">
-                           <li class="active"><a href="*">Home</a></li>
-                           <li><a href="*">Projects</a></li>
-                           <li><a href="*">Services</a></li>
-                           <li><a href="*">About</a></li>
-                           <li><a href="*">Contact Us</a></li>
-                      </ul>
-               </div>
-            </div>
-         </div>
-        </div>
-            <div class="hero-unit">
-                 
-                 <h1>Welcome!</h1>
-                
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                </p>
+        <script src="js/bootstrap.js"></script>      
+        <div class="container">
+  <div class="row">
+    <div class="span12">
+      <div class="head">
+        <div class="row-fluid">
+            <div class="span12">
+                <div class="span6">
+                    <h1 class="muted">Food Bank Club</h1>
+                </div>
 
-                <a href="*" class="btn btn-large btn-success">Food Bank Club</a>
-                    
-           </div>   
+                <div class="span4 offset2" style="margin-top:15px;">
+                <div id="browse_app">  
+                    <a class="btn pull-right"href="loginJoinup.jsp">Sign In</a>
+                </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="navbar">
+            <div class="navbar-inner">
+                <div class="container">
+                    <ul class="nav">
+                        <li>
+                            <a href="index.jsp">Home</a>
+                        </li>
+
+                        <li>
+                            <a href="memberFunctions.jsp">Member</a>
+                        </li>
+
+                        <li>
+                            <a href="clubFunctions.jsp">Club</a>
+                        </li>
+
+                        <li>
+                            <a href="supplierFunctions.jsp">Supplier</a>
+                        </li>
+                        
+                        <li>
+                            <a href="orderAdd.jsp">Order</a>
+                        </li>
+                        
+                        <li>
+                             <a href="stockAddEditDelete.jsp">Stock</a>
+                        </li>
+                        
+                        <li>
+                             <a href="aboutUs.jsp">Contact Us</a>
+                        </li>
+                        
+                        <li>
+                             <a href="donateMake.jsp">Donate</a>
+                        </li>
+                        
+                        
+                      
+                    </ul>
+                </div>
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+       
+         
+        
+<div class="hero-unit">     
+  <div class="row">
+    <div class="col-lg-4">
+      <div class="col-md-3">
+       
+        
+        <a href="loginJoinup.jsp" class="btn btn-medium btn-success">Join us</a> 
+        
+        
+        
+      </div>
+    </div>
+  </div> 
+</div> 
+    
+    <div id="footer">
+      <div class="navbar navbar-fixed-bottom">
+        <div class="navbar-inner">
+          <div class="container">
+            <ul class="nav">
+               <p class="muted pull-right">© 2014 FoodBankClub Registered Charity X123456. All rights reserved</p>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+   
    </body>
 </html>
