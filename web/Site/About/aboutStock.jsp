@@ -1,3 +1,4 @@
+<%@taglib prefix="sql" uri="http://java.sun.com/jsp/jstl/sql"%>
 <%-- 
     Document   : index
     Created on : 12-Jan-2014, 10:20:08
@@ -7,7 +8,7 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 
-<html>
+<html xmlns:h="http://xmlns.jcp.org/jsf/html" xmlns:f="http://xmlns.jcp.org/jsf/core">
     <head>
         <title>FoodBankClub Our Stock</title>
         <meta charset="UTF-8">
@@ -24,7 +25,7 @@
         <div class="row-fluid">
             <div class="span12">
                 <div class="span6">
-                    <h1 class="muted">Food Bank Club About</h1>
+                    <h1 class="muted">Food Bank Club: About Stock</h1>
                 </div>
 
                 <div class="span4 offset2" style="margin-top:15px;">
@@ -77,17 +78,22 @@
       </div>
     </div>
   </div>
-       
-         
-        
+        <div class="hero-unit">  
+            Our stock rules are simple, if the item is food and free from VAT we sell it.<br>
+            The great majority of these food items are the standard food products which 
+            every healthy family needs. <br>
+            All deliveries are offered free of charge. This helps to 
+            promote local produce keeping money spent in your local community.<br>
+            Lookout for great bulk purchase deals from your local food suppliers and some big brands too!<br>
+        </div>
 <div class="hero-unit">     
   <div class="row">
     <div class="col-lg-4">
       <div class="col-md-3">
-       
+          Check our in stock product with the button below, join a club and start saving.<br>
         <a href="../../welcomeJSF.jsp" class="btn btn-medium btn-warning">Home</a>  
         <a href="../../loginJoinup.jsp" class="btn btn-medium btn-success">Join Us</a>  
-        <a href="showAllItems.jsp" class="btn btn-medium btn-success">In Stock Now!</a>  
+        <a href="stockShowAllItems.jsp" class="btn btn-medium btn-success">In Stock Now!</a>  
       </div>
     </div>
   </div> 

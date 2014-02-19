@@ -30,7 +30,7 @@
         <div class="row-fluid">
             <div class="span12">
                 <div class="span6">
-                    <h1 class="muted">Food Bank Club</h1>
+                    <h1 class="muted">Food Bank Club Home</h1>
                 </div>
 
                 <div class="span4 offset2" style="margin-top:15px;">
@@ -85,7 +85,17 @@
       </div>
     </div>
   </div>
-       
+     <div class="hero-unit"> 
+                We support our clubs obtain great deals on healthy food from our suppliers for 
+                their members assisted by our donors and members contributions. <br>
+                All our food items are VAT FREE, we don't sell many processed foods and our packaging 
+                is always minimised.<br>
+                Deliveries are free of charge. This gives local producers an advantage and reduces food 
+                delivery miles. It also helps keep local money in local pockets.<br>
+                We think you will like our benefits please join today. Lookup up your local club 
+                in the clubs page to find out more.<br>
+               
+                <div   
          
         
 <div class="hero-unit">     

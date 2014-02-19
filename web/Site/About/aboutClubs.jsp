@@ -10,6 +10,7 @@
 <html>
     <head>
         <title>FoodBankClub Our Clubs</title>
+        
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width">
         <link rel="stylesheet" href="../../css/bootstrap.css" type="text/css">
@@ -24,7 +25,7 @@
         <div class="row-fluid">
             <div class="span12">
                 <div class="span6">
-                    <h1 class="muted">Food Bank Club About</h1>
+                    <h1 class="muted">Food Bank Club: About Clubs</h1>
                 </div>
 
            <div class="span4 offset2" style="margin-top:15px;">
@@ -134,7 +135,7 @@
   <div class="row">
     <div class="col-lg-4">
       <div class="col-md-3">
-       
+       We have clubs in most towns, please contact us to enquire about joining your local club or setting one up.
         <a href="../../welcomeJSF.jsp" class="btn btn-medium btn-warning">Home</a>  
         <a href="../../loginJoinup.jsp" class="btn btn-medium btn-success">Join Us</a>         
       </div>

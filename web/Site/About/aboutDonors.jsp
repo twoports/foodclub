@@ -24,7 +24,7 @@
         <div class="row-fluid">
             <div class="span12">
                 <div class="span6">
-                    <h1 class="muted">Food Bank Club About</h1>
+                    <h1 class="muted">Food Bank Club: About Donors</h1>
                 </div>
 
                  <div class="span4 offset2" style="margin-top:15px;">
@@ -80,10 +80,12 @@
   </div>
             
              <div class="hero-unit">
-                 
-               
+             The table below shows the amounts donated to our clubs this week.
+             Every pound donated is available for our clubs to spend. 
+             <br>
+             Donor table here. Dates, clubs and donors only. 
                 
-                <a href="Donors/donateMake.jsp" class="btn btn-large btn-success">Donate Now</a>
+               
                 
                 
                     
@@ -95,9 +97,12 @@
   <div class="row">
     <div class="col-lg-4">
       <div class="col-md-3">
-       
+          We welcome new donors. Donate to any club of your choice and support your local community. <br>
+          Many of our members and their families are also donors. <br>
+          <br>
            <a href="../../welcomeJSF.jsp" class="btn btn-medium btn-warning">Home</a>  
-        <a href="../../loginJoinup.jsp" class="btn btn-medium btn-success">Join Us</a>     
+        <a href="../../loginJoinup.jsp" class="btn btn-medium btn-success">Join Us</a>   
+         <a href="Donors/donateMake.jsp" class="btn btn-medium btn-success">Donate Now</a>
       </div>
     </div>
   </div> 

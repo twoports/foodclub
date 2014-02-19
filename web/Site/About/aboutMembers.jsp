@@ -24,7 +24,7 @@
         <div class="row-fluid">
             <div class="span12">
                 <div class="span6">
-                    <h1 class="muted">Food Bank Club About</h1>
+                    <h1 class="muted">Food Bank Club: About Members</h1>
                 </div>
 
                 <div class="span4 offset2" style="margin-top:15px;">
@@ -85,7 +85,11 @@
   <div class="row">
     <div class="col-lg-4">
       <div class="col-md-3">
-       
+       Our clubs bulk purchase food for their members. Membership is FREE. 
+       Your club purchases are supported by our donor and the great prices offered by our suppliers. 
+       All our items are VAT FREE and many will be locally produced. 
+       Check the products page for stock available and join up now. 
+       <br>
         <a href="../../welcomeJSF.jsp" class="btn btn-medium btn-warning">Home</a>  
         <a href="../../loginJoinup.jsp" class="btn btn-medium btn-success">Join Us</a>        
       </div>

@@ -24,7 +24,7 @@
         <div class="row-fluid">
             <div class="span12">
                 <div class="span6">
-                    <h1 class="muted">Food Bank Club Admin</h1>
+                    <h1 class="muted">Food Bank Club Admin: Edit Clubs</h1>
                 </div>
 
                 <div class="span4 offset2" style="margin-top:15px;">

@@ -9,7 +9,7 @@
 
 <html>
     <head>
-        <title>FoodBankClub Clubs</title>
+        <title>FoodBankClub Supplier Stock Quantity Edit</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width">
         <link rel="stylesheet" href="../../css/bootstrap.css" type="text/css">
@@ -24,7 +24,7 @@
         <div class="row-fluid">
             <div class="span12">
                 <div class="span6">
-                    <h1 class="muted">Food Bank Clubs: Add Order</h1>
+                    <h1 class="muted">Food Bank Club Suppliers: Edit Stock Quantity</h1>
                 </div>
 
                 <div class="span4 offset2" style="margin-top:15px;">
@@ -42,47 +42,37 @@
                          <li>
                             <a href="../../welcomeJSF.jsp">Home</a>
                         </li>
-
-                       
+                        
+                        <li>
+                            <a href="supplierShowDetail.jsp">Show Details</a>
+                        </li>
+                        
+                        <li>
+                            <a href="supplierShowOrders.jsp">Show Orders</a>
+                        </li>
+                        
                          <li>
-                             <a href="clubShowOrders.jsp">All Orders</a>
-                        </li>
-                        
-                        <li>
-                             <a href="clubShowDetail.jsp">Club Info</a>
-                        </li>
-                        
-                        <li>
-                            <a href="clubEditDetail.jsp">Edit Club</a>
+                            <a href="supplierShowStock.jsp">Show Orders</a>
                         </li>
 
-                        <li>
-                            <a href="clubMemberAdd.jsp">Add Member</a>
-                        </li>
                         
-                        <li>
-                             <a href="clubMemberDelete.jsp">Delete Member</a>
-                        </li>
-                        
-                        <li>
-                             <a href="clubMemberEdit.jsp">Edit Member</a>
-                        </li>
-                        
-                   
-                        
-          </div>
+                    </ul>
+                </div>
+            </div>
         </div>
       </div>
     </div>
   </div>
-      
-      <div class="hero-unit">     
+  
+         
+        
+<div class="hero-unit">     
   <div class="row">
     <div class="col-lg-4">
       <div class="col-md-3">
        
         <a href="../../welcomeJSF.jsp" class="btn btn-medium btn-warning">Home</a>  
-                
+       
       </div>
     </div>
   </div> 
@@ -103,3 +93,4 @@
    
    </body>
 </html>
+

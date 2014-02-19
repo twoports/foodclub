@@ -7,7 +7,7 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 
-<html>
+<html xmlns:h="http://xmlns.jcp.org/jsf/html" xmlns:f="http://xmlns.jcp.org/jsf/core">
     <head>
         <title>FoodBankClub Admin Functions</title>
         <meta charset="UTF-8">
@@ -24,7 +24,7 @@
         <div class="row-fluid">
             <div class="span12">
                 <div class="span6">
-                    <h1 class="muted">Food Bank Club Admin</h1>
+                    <h1 class="muted">Food Bank Club Admin: Edit Supplier</h1>
                 </div>
 
                 <div class="span4 offset2" style="margin-top:15px;">
@@ -444,7 +444,8 @@
         </form>
 	</div>
 </div>  
-     
+            
+
        
 <div class="hero-unit">     
   <div class="row">

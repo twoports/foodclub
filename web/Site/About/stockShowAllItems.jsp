@@ -24,7 +24,7 @@
         <div class="row-fluid">
             <div class="span12">
                 <div class="span6">
-                    <h1 class="muted">Food Bank Club Stock</h1>
+                    <h1 class="muted">Food Bank Club: Our Stock</h1>
                 </div>
 
                 <div class="span4 offset2" style="margin-top:15px;">
@@ -80,13 +80,14 @@
     </div>
   </div>
        
+            Stock table here with category, item and description only. 
          
         
 <div class="hero-unit">     
   <div class="row">
     <div class="col-lg-4">
       <div class="col-md-3">
-       
+          To start saving on our stock, join a club, to support a club please donate.<br>
         <a href="../index.jsp" class="btn btn-medium btn-warning">Go Back</a>  
         <a href="loginJoinup.jsp" class="btn btn-medium btn-success">Join us</a>         
       </div>

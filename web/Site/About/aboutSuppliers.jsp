@@ -24,7 +24,7 @@
         <div class="row-fluid">
             <div class="span12">
                 <div class="span6">
-                    <h1 class="muted">Food Bank Club About</h1>
+                    <h1 class="muted">Food Bank Club: About Suppliers</h1>
                 </div>
 
                 <div class="span4 offset2" style="margin-top:15px;">
@@ -78,7 +78,21 @@
       </div>
     </div>
   </div>
-       
+       <div class="hero-unit">  
+            Suppliers, join our service free of charge now. We operate to provide great food,
+            locally sourced for the benefit of our members and clubs. <br>
+            <ol type="1">
+                <li>All items supplied are food.</li>
+                <li>All items supplied do not attract VAT</li>
+                <li>Supply is offered free of delivery cost to clubs.</li>
+                <li>Suppliers and clubs arrange mutual deliveries.</li>
+                <li>We handle payments from clubs to suppliers.</li>
+            </ol>
+            All deliveries are offered free of charge to promote local producers and products.<br>
+            Please contact us to get your products on our stock list and access your local market.<br>
+            
+           
+        </div>
          
         
 <div class="hero-unit">     

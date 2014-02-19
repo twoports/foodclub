@@ -24,7 +24,7 @@
         <div class="row-fluid">
             <div class="span12">
                 <div class="span6">
-                    <h1 class="muted">Food Bank Club Orders</h1>
+                    <h1 class="muted">Food Bank Club Suppliers: Show Orders</h1>
                 </div>
 
                 <div class="span4 offset2" style="margin-top:15px;">
@@ -49,6 +49,9 @@
                         
                         <li>
                             <a href="supplierShowStock.jsp">Show Stock</a>
+                        </li>
+                         <li>
+                            <a href="supplierEditStockQty.jsp">Edit Stock Qty</a>
                         </li>
                         
                     </ul>
